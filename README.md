@@ -2,7 +2,7 @@
 
 # PitchTalk - Auto Bot tele
 
-🔗 **Referral Link**: [PitchTalk](https://t.me/pitchtalk_bot/app?startapp=ffd116)
+🔗 **Referral Link**: [PitchTalk](https://t.me/pitchtalk_bot/app?startapp=a52fc2)
 
 ## 📢 Telegram Group
 
